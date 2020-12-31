@@ -20,7 +20,7 @@
 ### Many balls on many strings
 ![](many-balls-on-spring.gif)
 
-### Two ball on string
+### Two balls on string
 ![](two-ball-on-string.gif)
 
 
