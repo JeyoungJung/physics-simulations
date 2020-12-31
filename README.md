@@ -1,26 +1,26 @@
-### physics-simulations
+# physics-simulations
 
 ## Demonstrates some basic physics with Processing
 
-# Ball bouncing with gravity
+### Ball bouncing with gravity
 ![](ball-bouncing-wGrav.gif)
 
-# Simple Oscillator
+### Simple Oscillator
 ![](simple-oscillator.gif)
 
-# Damped Oscillator
+### Damped Oscillator
 ![](damped-oscillator.gif)
 
-# Two spring oscillator
+### Two spring oscillator
 ![](two-spring-oscillator.gif)
 
-# Many balls on one string
+### Many balls on one string
 ![](many-balls-on-one-string.gif)
 
-# Many balls on many strings
+### Many balls on many strings
 ![](many-balls-on-spring.gif)
 
-# Two ball on string
+### Two ball on string
 ![](two-ball-on-string.gif)
 
 
